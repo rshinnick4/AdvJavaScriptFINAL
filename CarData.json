@@ -1,0 +1,304 @@
+[
+    {
+        "Type" "Coup",
+        "Package" "Limited",
+        "Interior" "Black",
+        "Exterior" "Silver",
+        "Price" "43764",
+        "Brand" "Ford",
+        "Vin" "5B2WMKU18U3218510"
+    },
+    {
+        "Type" "Truck",
+        "Package" "Sport",
+        "Interior" "Black",
+        "Exterior" "Pink",
+        "Price" "30376",
+        "Brand" "Lincoln",
+        "Vin" "5G8WDTS70Y7816868"
+    },
+    {
+        "Type" "Coup",
+        "Package" "Standard",
+        "Interior" "Grey",
+        "Exterior" "Yellow",
+        "Price" "63464",
+        "Brand" "Lincoln",
+        "Vin" "1B3XBAJ81B3927098"
+    },
+    {
+        "Type" "Convertible",
+        "Package" "Limited",
+        "Interior" "Black",
+        "Exterior" "Yellow",
+        "Price" "14991",
+        "Brand" "Lincoln",
+        "Vin" "8M7LXPA64C4050113"
+    },
+    {
+        "Type" "Truck",
+        "Package" "Sport",
+        "Interior" "Grey",
+        "Exterior" "Silver",
+        "Price" "72543",
+        "Brand" "Toyota",
+        "Vin" "6D0FPNY34P8912190"
+    },
+    {
+        "Type" "Truck",
+        "Package" "Limited",
+        "Interior" "White",
+        "Exterior" "Pink",
+        "Price" "63468",
+        "Brand" "Toyota",
+        "Vin" "2I3JSNL36T5065939"
+    },
+    {
+        "Type" "Truck",
+        "Package" "Standard",
+        "Interior" "Tan",
+        "Exterior" "Orange",
+        "Price" "95364",
+        "Brand" "Toyota",
+        "Vin" "3T8JRSF27G3464223"
+    },
+    {
+        "Type" "Coup",
+        "Package" "Limited",
+        "Interior" "Black",
+        "Exterior" "White",
+        "Price" "35946",
+        "Brand" "Ford",
+        "Vin" "3T7UDCS97K5803324"
+    },
+    {
+        "Type" "Convertible",
+        "Package" "Limited",
+        "Interior" "Black",
+        "Exterior" "Gold",
+        "Price" "70477",
+        "Brand" "Subaru",
+        "Vin" "4I8TIAR35V9411493"
+    },
+    {
+        "Type" "Sedan",
+        "Package" "Limited",
+        "Interior" "White",
+        "Exterior" "Green",
+        "Price" "29741",
+        "Brand" "Lincoln",
+        "Vin" "5Y6CMBN97T6755476"
+    },
+    {
+        "Type" "Convertible",
+        "Package" "Standard",
+        "Interior" "Black",
+        "Exterior" "Yellow",
+        "Price" "75745",
+        "Brand" "Lincoln",
+        "Vin" "0P0EAPT21V3933353"
+    },
+    {
+        "Type" "Convertible",
+        "Package" "Limited",
+        "Interior" "White",
+        "Exterior" "Red",
+        "Price" "74771",
+        "Brand" "Lincoln",
+        "Vin" "8Q0NFNY23N6915620"
+    },
+    {
+        "Type" "Truck",
+        "Package" "Standard",
+        "Interior" "Tan",
+        "Exterior" "Silver",
+        "Price" "51601",
+        "Brand" "Subaru",
+        "Vin" "4V7UDVY74X4137532"
+    },
+    {
+        "Type" "Convertible",
+        "Package" "Standard",
+        "Interior" "White",
+        "Exterior" "Silver",
+        "Price" "22426",
+        "Brand" "BMW",
+        "Vin" "2R5JUKG36J6218633"
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+    {
+        "Type" "",
+        "Package" "",
+        "Interior" "",
+        "Exterior" "",
+        "Price" "",
+        "Brand" ""
+    },
+]
+Sedan
+Sport
+Black
+Brown
+8835
+BMW
+2Y1XGYI88K1174022
+*
+Truck
+Standard
+Grey
+Brown
+91413
+Ford
+5G7DQBL79H2857378
+*
+Van
+Standard
+Tan
+Gold
+61355
+Lincoln
+2R2WWOR18B5067912
+*
+Truck
+Limited
+White
+Silver
+36221
+BMW
+4E1BZKD96F2301684
+*
+Coup
+Sport
+Grey
+Purple
+57809
+Lincoln
+7M0IFRU83H4859670
+*
+Convertible
+Standard
+Tan
+Silver
+63239
+BMW
+1O4TDNI64G1300801
+*
+Truck
+Limited
+Tan
+Green
+99796
+Toyota
+6W2BCEV61D1638940
+*
+Van
+Sport
+Grey
+White
+28292
+Lincoln
+1L2SAKD17W2287519
+*
+Convertible
+Standard
+Black
+White
+40881
+BMW
+7N7YCJG73L6806053
+*
+Coup
+Limited
+Grey
+Red
+5682
+Subaru
+1W0FBHS17L9650389
+*
+Coup
+Standard
+Tan
+Green
+81194
+Ford
+1V1OWJW55Y3908439
+*
